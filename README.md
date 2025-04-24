@@ -1,4 +1,4 @@
 # This is my local Repo
-This is my second git repository
+This is my first git repository
 <br>
-Author - Subimal Giri
+Author - Subimal Giri(student)
